@@ -1,0 +1,19 @@
+{
+    "name": "CognitoGuard",
+    "alias": "cognitoguard",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\CognitoGuard\\Providers\\CognitoGuardServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "authors": [
+        {
+            "name": "NutriX",
+            "email": "equipo.nutrix@uneatlantico.es"
+        }
+    ]
+}
