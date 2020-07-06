@@ -1,5 +1,5 @@
 {
-    "name": "nutrix/guard-cognito",
+    "name": "nutrix/guard-cognito-module",
     "description": "Auth with Cognito using JWT",
     "type": "laravel-module",
     "require": {
